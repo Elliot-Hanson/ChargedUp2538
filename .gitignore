@@ -99,7 +99,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-.vscode/*
+.vscode/
 
 # Windows thumbnail cache files
 Thumbs.db
